@@ -1,0 +1,6 @@
+lay-out
+header-navigation
+heao-image
+hero-section
+production-section
+footer
